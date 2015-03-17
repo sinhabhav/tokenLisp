@@ -1,5 +1,3 @@
-# tokenLisp
-#takes inputs as a compiler in Lisp format and performs add and mul tasks
 package Package1;
 import java.io.*;
 import java.util.*;
